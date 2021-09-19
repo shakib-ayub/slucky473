@@ -1,0 +1,1454 @@
+@media only screen and (max-width: 1280px) {
+   header{
+      padding: 20px 40px;
+   }
+   header .main-header::before{
+      top: 67px;
+   }
+   .top-bar{
+      padding: 10px 30px;
+   }
+   header .header{
+      padding: 20px 30px;
+   }
+   .logo figure{
+      width: 150px;
+   }
+   header .header ul li{
+      padding-right: 0;
+      padding-left: 15px;
+   }
+   .header ul li a.get-btn{
+      padding: 2px 22px;
+   }
+   .Development .blog-text ul li figure{
+      width: 100% !important;
+   }
+   .banner-slider .banner1-row{
+      background-position: 500px 60px;
+   }
+   .banner-slider .banner-row{
+      background-position: 500px 30px;
+   }
+   .banner-slider .banner2-row{
+      background-position: 500px 10px;
+   }
+   .banner-slider .banner-left h1 {
+      font-size: 27px;
+   }
+   /*-------Web Section ----*/
+
+   .Web-section .web-image {
+      padding:0 0 50px;
+   }
+   .Web-section .img-box figure {
+      width: 700px;
+      margin-left: -3px;
+      height: auto;
+   }
+   .Web-section .web-text {
+      padding-top: 50px;
+      background-position: 280px 441px;
+   }
+   .Web-section .web-text h2{
+      padding-right: 10px;
+      font-size: 25px;
+      margin-right: 70px;
+   }
+
+   .Web-section .web-text h3 {
+      padding-right: 0px;
+      font-size: 20px;
+      margin-right: 70px;
+   }
+   .Web-section .web-text p {
+      font-size: 15px;
+      padding-right: 3px;
+      margin-right: 70px;
+   }
+   .Web-section .web-btn {
+      padding: 7px 49px;
+      line-height: 26px;
+   }
+   /*----Service Section------*/
+   .service .service-row {
+      padding: 0px 0px 80px 80px;
+  }
+   .service-title {
+      padding: 49px 0 0 90px;
+  }
+   .service h2{
+      font-size: 30px;
+   }
+   .service .service-title h3 {
+      padding-top: 12px;
+      font-size: 21px;
+   }
+   .service .service-row .serv-left figure {
+      margin-top: 40px;
+  }
+  /*-------Clients-section -------*/
+  .Clients-section {
+   padding: 50px 0;
+   }
+   .Clients-section .client-text {
+      padding-left: 100px;
+    }
+    .Clients-section .client-text h2{
+      padding: 20px 0;
+    }
+    .Clients-section .client-text h3{
+      padding-bottom: 0;
+    }
+    .Clients-section a.btn.client-btn {
+      padding: 7px 49px;
+      line-height: 26px;
+    }
+    .Clients-section .client-img figure {
+      width: 100%;
+      height: auto;
+   }
+   .Clients-section .client-img ul li {
+      width: 27%;
+  }
+  .contact h2{
+     font-size: 75px;
+  }
+  .contact .row .col ul li a{
+     font-size: 24px;
+  }
+  .container{
+     width: 100%;
+     padding:  0 30px;
+  }
+  .commerce-text{
+     padding: 200px 40px 150px 70px;
+  }
+  .commerce-text h2{
+     font-size: 34px;
+  }
+  /*-----Protot Section---*/        
+   .protot {
+    padding: 20px 0 60px;
+   }
+   .protot-text {
+      width: calc(100% - 420px);
+      padding-left: 79px;
+   }
+   .protot h2{
+      font-size: 33px;
+   }
+   .protot .protot-text h3{
+      font-size: 20px;
+      padding: 7px 13px 36px 0;
+   }
+   .protot .candle {
+      width: 420px;
+      bottom: 30%;
+   }
+   /*--------Form----*/
+   .form-start input {
+      margin: 5px 6px 10px 0;
+      font-size: 15px;
+      margin-right: 14px;
+   }
+   .form-control{
+      padding: 12px;
+   }
+   /*footer-------*/
+   .footer-column{
+      width: 33%;
+      padding: 40px 0;
+   }
+   .footer-column p {
+      color: #7E8399;
+      padding: 5px 28px 17px 0;
+      font-size: 16px;
+   }
+   .footer-column h3{
+      font-size: 20px;
+   }
+   .footer-column h6 {
+      padding-top: 40px;
+      font-size: 14px;
+  }
+  .footer-column.recent a{
+    font-size: 13px;
+    line-height: 13px;
+  }
+  .footer-column input{
+     width: 220px;
+  }
+  .footer-column .footer-btn {
+   padding: 10px 57px;
+   }
+   .team{
+      padding: 30px 0 100px;
+   }
+   .Development .blog-text{
+      padding-left: 70px;
+   }
+   .team .team-row .team-left h3{
+      padding-top: 60px;
+   }
+   .Development .blog-text ul li h2{
+      font-size: 36px;
+   }
+   .web-development .web-row{
+      padding: 35px 0;
+   }
+   .web-left h2{
+      font-size: 32px;
+      line-height: 33px;
+   }
+   .choose-row{
+      padding: 10px 10px 40px;
+   }
+   .choose .choose-row ul .expert{
+      padding: 20px 24px;
+   }
+   .choose .choose-row ul .expert h4{
+      font-size: 19px;
+   }
+}
+
+
+@media only screen and (max-width: 992px){
+   .top-bar {
+      padding: 10px 18px 10px 26px;
+  }
+  .contact .contact_address .address_row ul li{
+     width: 100% !important;
+  }
+  .contact .contact_address .address_row ul li figure{
+     width: 85px !important;
+     height: 85px !important;
+  }
+  .contact .contact_address h2{
+     font-size: 30px !important;
+  }
+  header .header {
+   padding: 20px 40px 20px 20px;
+   }
+   header .header .logo figure {
+      width: 140px;
+  }
+  header .header ul li {
+   padding-left: 10px;
+  }
+  header .header ul li a{
+     font-size: 12px;
+  }
+  .why ul{
+     padding-left: 25px !important;
+  }
+  
+  .why ul li p{
+     font-size: 16px;
+  }
+  .web-development .web-right ul li{
+     width: 50%;
+  }
+  .web-development .web-left p{
+     line-height: 25px;
+     font-size: 16px;
+  }
+  .choose .choose-row ul .expert{
+     padding: 15px 10px;
+  }
+  .choose .choose-row .text{
+     padding-left: 15px;
+  }
+  .choose .choose-row .text h3{
+     font-size: 21px;
+  }
+  .choose .choose-row .text p{
+     font-size: 15px;
+  }
+  .choose .choose-row ul .expert h4{
+     font-size: 16px;
+  }
+  .blog .blog-row{
+     padding: 40px 0;
+  }
+  .blog .blog-row .blog-text h3 {
+      padding: 35px 0 20px;
+      font-size: 25px;
+   }
+   .blog .blog-row .blog-text p{
+      font-size: 15px;
+      line-height: 25px;
+   }
+   .blog .blog-row .blog-text h4{
+      padding: 10px 0;
+   }
+  /* .service .service-row .serv-left{
+     justify-content: space-evenly;
+  } */
+  .service .serv-left .develompent{
+     width: 47%;
+  }
+  .service .serv-left .commerce{
+     width: 47%;
+  }
+  .service .serv-left .app-develompent{
+     width: 47%;
+  }
+  .service .serv-left .seo{
+     width: 47%;
+  }
+  
+  /*-------Banner------*/
+  .banner-slider .banner-left {
+   padding: 50px 0 0 60px;
+   }
+   .banner-slider .banner-left h1{
+      font-size: 22px;
+   }
+   .banner-slider .banner-row {
+      background-position: 301px 52px;
+  }
+  /*-----Web Section------*/
+  .web-image{
+     width: 50%;
+  }
+  .web-text{
+     width: 50%;
+  }
+  .Web-section .img-box figure {
+      width: 480px;
+      margin-left: 30px;
+   }
+   .Web-section .web-text{
+      background-image: none;
+   }
+   .Web-section .web-text h2 {
+      font-size: 20px;
+      margin-right: 30px;
+      line-height: 32px;
+  }
+  .Web-section .web-text h3 {
+      padding-right: 0px;
+      font-size: 18px;
+      margin-right: 30px;
+      padding: 14px 0;
+   }
+   .Web-section .web-text p {
+      font-size: 14px;
+      padding-right: 0px;
+      margin-right: 30px;
+  }
+  .Web-section .web-btn {
+      padding: 6px 35px;
+   }
+   /*----Service---*/
+   .service-title {
+      padding: 31px 0 0 63px;
+      width: 70%;
+   }
+   .service h2 {
+      font-size: 26px;
+   }
+   .service .serv-left h4 {
+      margin: 10px 0 20px;
+      font-size: 17px;
+   }
+   .service .service-title h3 {
+      padding-top: 0px;
+      font-size: 18px;
+      line-height: 34px;
+  }
+  .service .service-row {
+      padding: 0px 0px 50px 50px;
+   }
+   .service .service-row .serv-left figure {
+      margin-top: 20px;
+      width: 95px;
+   }
+   .service p {
+      font-size: 14px;
+      padding-right: 21px;
+      line-height: 25px;
+   }
+   .Development .blog-text{
+      padding-top: 120px;
+      padding-left: 50px;
+   }
+   .team .team-row{
+      padding: 0 25px;
+   }
+   .team h2{
+      padding-top: 20px;
+   }
+   .team .team-row .team-left h4 {
+      padding: 10px 20px 15px 0;
+      font-size: 18px;
+      line-height: 25px;
+  }
+   .Development .blog-text ul li h2{
+      padding: 15px 0;
+      font-size: 30px;
+   }
+   /*----CLient Section---*/
+   .Clients-section {
+      padding: 40px 0;
+   }
+   .Clients-section .client-text {
+      padding-left: 50px;
+   }
+   .Clients-section .client-text h2 {
+      font-size: 30px;
+   }
+   .Clients-section .client-text h3 {
+      font-size: 18px;
+      line-height: 0;
+   }
+   .Clients-section .client-img ul {
+      justify-content: space-around;
+   }
+   /*-------Protot-SEction*/
+
+   .protot-text {
+      width: calc(100% - 320px);
+      padding-left: 45px;
+   }
+   .protot .candle {
+      width: 320px;
+      bottom: 30%;
+   }
+   .protot h2 {
+      font-size: 28px;
+   }
+   .protot textarea{
+      height: 120px;
+   }
+   .protot .protot-text h3 {
+      font-size: 18px;
+      padding: 7px 13px 16px 0;
+   }
+   .contact .row .col ul li figure{
+      width: 55px;
+      height: 55px;
+   }
+   .contact .row .col ul li a{
+      font-size: 18px;
+   }
+   .contact .row .col form .form-control{
+      padding: 13px 17px;
+      font-size: 17px;
+   }
+   .start .row{
+      padding: 140px 0;
+   }
+   .footer-column li{
+      padding: 5px 0;
+      font-size: 14px;
+   }
+   .footer-column input {
+      width: 197px;
+      font-size: 14px;
+  }
+  .footer-column .footer-btn {
+   padding: 8px 50px;
+   font-size: 14px;
+   }
+}
+/*---------Media Query 768--------*/
+@media only screen and (max-width: 768px){
+   .why ul li{
+      width: 100%;
+   }
+   .banner-slider .banner2-row {
+      background-position: 280px 10px;
+   }
+   .why{
+      padding-left: 25px !important;
+      padding-right: 20px !important;
+   }
+   .service .serv-left h4{
+      margin: 7px 0;
+   }
+   .why ul li h3{
+      text-align: center;
+   }
+   .web-development{
+      padding: 10px 0 5px;
+   }
+   .web-development .web-left{
+      padding-right: 20px;
+      width: 100%;
+   }
+   .choose .choose-row .choose-left{
+      width: 100%;
+   }
+   .Just-app .just-row{
+      padding: 40px 0 50px 40px;
+      flex-wrap: wrap;
+   }
+   .Just-app .just-row .just-img{
+      width: 100%;
+   }
+   .Just-app .just-row .just-text{
+      padding-right: 20px;
+      width: 100%;
+   }
+   .choose .choose-row .choose-right{
+      width: 100%;
+   }
+   .web-development .web-right{
+      width: 100%;
+      padding-right: 20px;
+   }
+   /* .service p{
+      padding-left: 20px !important;
+   } */
+   .serv-left.test-what p{
+      font-size: 14px;
+   }
+   .top-bar{
+      display: none;
+   }
+   .banner-left{
+      padding: 30px 0 0 30px;
+   }
+   .banner-left h1{
+      font-size: 18px;
+   }
+   .banner-slider .banner-row {
+      background-position: 60px 85px;
+  }
+  .Web-section .img-box {
+   width: 100%;
+   margin-top: 38px;
+   }
+   .Web-section .img-box figure{
+      width: 100%;
+      margin: 0;
+   }
+   .Web-section .web-text{
+      width: 100%;
+      padding-top: 0px;
+   }
+   .Cyber .Cyber-row .Cyber-left ul{
+      margin: 15px 0;
+   }
+   .Cyber h2{
+      font-size: 24px !important;
+   }
+   .Security-text ul li h5{
+      font-size: 20px;
+   }
+   .footer-column form {
+      width: 100%;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+   }
+   .blog .blog-row{
+      padding: 30px 20px;
+      flex-direction: column-reverse;
+   }
+   .blog .blog-row .blog-text{
+      width: 100%;
+   }
+   .blog .blog-row .blog-img{
+      width: 100%;
+   }
+
+   .container{
+      width: 100%;
+      padding: 0 15px;
+   }
+   .footer-column{
+      width: 50%;
+   }
+   .footer-column p{
+      font-size: 14px;       
+      padding: 5px 14px 17px 0;
+   }
+   .footer-column:last-of-type{
+      width: 100%;
+      text-align: center;
+   }
+   .Development .blog-text ul{
+      flex-wrap: wrap;
+   }
+   .Development .blog-text ul li{
+      width: 100%;
+   }
+   .Development .blog-text {
+      padding-top: 104px;
+      padding-left: 40px;
+      padding-bottom: 0px;
+      padding-right: 10px;
+      padding: 100px 10px 0px 40px;
+  }
+  .team .team-row .team-left h3 {
+      padding-top: 40px;
+      font-size: 18px;
+   }
+   .team .team-row .team-left h4{
+      font-size: 15px;
+   }
+   .team .team-row .team-right figure img{
+      height: 100%;
+   }
+  .team .team-row .team-left{
+     width: 100%;
+  }
+  .team .team-row .team-right{
+     width: 100%;
+  }
+  .start .row h3{
+     font-size: 36px;
+  }
+  .start .row h2{
+     font-size: 60px;
+  }
+  .start{
+     padding: 0 20px;
+  }
+  .contact{
+     padding: 110px 0 60px;
+  }
+  .contact .row .col{
+     width: 100%;
+  }
+  .start .row{
+     padding: 50px 0 110px 0;
+  }
+  .start .row h2{
+     font-size: 30px;
+  }
+  .start .row h2::after{
+     top: 40px;
+  }
+  .start .row h3 {
+      font-size: 23px;
+      padding-bottom: 20px;
+   }
+   .contact h2{
+      font-size: 38px;
+   }
+   .contact .row .col{
+      padding: 20px;
+   }
+   /*-------Testing -Section-----*/
+}
+
+   
+/*--------Maintenance Page------*/
+@media only screen and (max-width: 1280px){
+   .why{
+      padding: 10px 0 0px;
+   }
+   .why .why-row{
+      padding-bottom: 30px;
+   }
+   .why .why-row .why-col{
+      padding: 30px 15px;
+      width: 31%;
+      }
+      .why p{
+         padding: 10px 0;
+      }
+      .testing .testing-text {
+         width: 100%;
+         padding: 188px 0 110px 53px;
+      }
+      .testing-text h6{
+         font-size: 35px;
+      }
+      .why h2{
+         font-size: 35px;
+      }
+      .serv-left.test-what p{
+         padding: 1px 63px 0 0;
+      }
+      .report {
+         padding: 20px 0 20px;
+     }
+     .report .container p{
+        padding: 25px 0;
+        font-size: 20px;
+        letter-spacing: 0;
+     }
+     .testing .testing-text ul li{
+        width: 49%;
+     }
+     .why ul{
+        padding-left: 10px;
+     }
+}
+@media only screen and (max-width: 992px){
+   .why .why-row .why-col {
+      padding: 15px 16px;
+      margin-top: 25px;
+   }
+   .why .why-row .why-col h3{
+      font-size: 20px;
+   }
+   .commerce-text {
+      padding-left: 60px;
+  }
+   .maintenance .why .why-col p {
+      padding: 7px 0 0 0;
+      font-size: 14px;
+   }
+   .seo-main-page h4 {
+      font-size: 30px;
+      line-height: 44px;
+      padding-top: 1px;
+   }
+   .seo-main-page {
+      padding: 165px 0 100px;
+   }
+   .Development .Development-seo p {
+      line-height: 25px;
+      font-size: 15px;
+      padding: 15px 0 0 0;
+  }
+   a.btn {
+      font-size: 14px;
+      padding: 9px 42px;
+   }
+   .Development-seo {
+      padding-left: 50px;
+  }
+  .testing .testing-text{
+     padding-bottom: 55px;
+  }
+  .testing-text h6{
+     font-size: 27px;
+  }
+  .testing-text p{
+     font-size: 16px;
+     padding-bottom: 10px;
+  }
+}
+
+@media only screen and (max-width: 768px){
+   .seo-main-page {
+      padding: 130px 0 50px;
+   }
+   .Development-seo {
+      padding-left: 30px;
+   }
+   .seo-main-page .seo-image {
+      padding: 33px 17px 0;
+   }
+   .seo-main-page h4 {
+      font-size: 20px;
+      line-height: 35px;
+      padding-top: 1px;
+   }
+   .Development .Development-seo p{
+      font-size: 14px;
+   }
+   .maintenance-why .text {
+      padding: 30px 0px 10px;
+      text-align: left;
+   }
+   h2{
+      font-size: 30px;
+      line-height: 30px;
+   }
+   .why h2 {
+      padding-left: 30px;
+      font-size: 29px;
+   }
+   .why-second{
+      padding-top: 40px;
+   }
+   .why-second h2{
+     text-align: center;
+   }
+   .serv-left.test-what p{
+      padding: 0;
+   }
+   .why .why-row {
+      justify-content: center;
+   }
+   .why .why-row .why-col{
+      width: 47%;
+      margin-left: 10px;
+   }
+   .protot {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+   }
+   .protot figure{
+      width: 0;
+   }
+   .commerce-text{
+      padding: 130px 20px 130px 40px;
+   }
+   .commerce-text h2{
+      font-size: 24px;
+   }
+   .commerce-text a.btn{
+      padding: 5px 48px;
+   }
+   .protot-text {
+      width: 100%;
+      z-index: 1;
+   }
+   .Web-section{
+      padding-left: 40px;
+   }
+   .service-title{
+      padding-left: 40px;
+   }
+   .service .service-row{
+      padding-left: 40px;
+   }
+   .report .container p{
+      font-size: 18px;
+      padding: 15px 12px 15px 30px;
+   }
+   .testing .testing-text{
+      padding-bottom: 10px;
+   }
+   .testing .testing-text ul li{
+      width: 100%;
+      padding-right: 40px;
+   }
+   .why ul li p{
+      padding: 20px 0;
+   }
+   .testing .testing-text{
+      padding: 100px 0 40px 60px;
+   }
+   
+}
+
+/*-----------Security_text -----*/
+@media only screen and (max-width: 1280px){
+   .Security-text {
+      padding: 210px 0 120px;
+   }
+   .Security-text h5 {
+      font-size: 40px;
+   }
+   .Security-text p{
+      font-size: 18px;
+      letter-spacing: 0;
+   }
+   .Cyber{
+      padding: 30px 0;
+   }
+   .Cyber h2{
+      font-size: 30px;
+      line-height: 30px;
+   }
+   .Cyber .Cyber-row .Cyber-left ul li.text figure{
+      margin: 0;
+   }
+   .Cyber .Cyber-row .Cyber-left figure{
+      margin: 0;
+      width: 350px;
+   }
+   .Cyber .Cyber-row .Cyber-left p {
+      font-size: 16px;
+      padding-right: 0px;
+      padding-top: 20px;
+      line-height: 26px;
+      padding-bottom: 10px;
+   }
+   .Cyber .Cyber-row .Cyber-left .text {
+      height: auto;
+   }
+   .Cyber .Cyber-row .Cyber-left ul li {
+      padding: 20px 45px;
+   }
+   .digital .digital-text h2 {
+      font-size: 30px;
+   }
+   .digital .digital-text p {
+      font-size: 16px;
+      line-height: 29px;
+      letter-spacing: 0px;
+   }
+   .digital .digital-text figure {
+      width: 750px;
+      margin: 0 auto;
+   }
+   footer{
+      padding: 0 45px;
+   }
+}
+@media only screen and (max-width: 992px){
+   .Security-text h5 {
+      font-size: 30px;
+   }
+   .Security-text p {
+      font-size: 16px;
+   }
+   .Cyber h2 {
+   padding: 10px 0;
+   }
+   .Cyber .Cyber-row .Cyber-left h3 {
+      padding: 15px 0 0;
+      font-size: 23px;
+   }
+   .Cyber .Cyber-row .Cyber-left p {
+      font-size: 15px;
+      padding-right: 0px;
+       padding-top: 5px;
+      line-height: 25px;
+      padding-bottom: 0px;
+   }     
+   .Cyber .Cyber-row .Cyber-left ul li {
+      padding: 20px;
+   }
+   .Cyber .Cyber-row .Cyber-left figure {
+      width: auto;
+   }
+   .Cyber .Cyber-row .Cyber-left figure:last-of-type{
+      margin-top: 70px;
+   }
+   .digital .digital-text h2 {
+      font-size: 24px;
+   }
+   .digital .digital-text p {
+     font-size: 15px;
+   }
+   .digital .digital-text figure {
+      width: 550px;
+   }
+
+}
+
+/*---------Seo Page Responsive-------*/
+
+@media only screen and (max-width: 1280px){
+
+   .Development-seo h5 {
+      font-size: 50px;
+   }
+   .seo-what .do-text li h3 {
+      font-size: 30px;
+      line-height: 38px;
+   }
+   .seo-what .seo-what-row .seo-what-col {
+      padding: 30px 16px 0px 14px;
+      width: 48%;
+   }
+   .what {
+      padding: 25px 0;
+   }
+   .layerd-section ul li {
+      padding: 30px 40px 29px 0;
+   }
+   .seo-digital .row .row-left {
+      width: 45%;
+   }
+   .Security-text ul{
+      padding: 0 40px;
+   }
+   .Security-text ul li h5{
+      font-size: 28px;
+   }
+   .Security-text ul li p{
+      font-size: 17px;
+   }
+   .Security-text {
+      padding: 191px 0 80px;
+  }
+  .Cyber .Cyber-row{
+     padding: 0 20px;
+  }
+  .Cyber .Cyber-row .Cyber-left ul{
+     margin: 30px 0;
+  }
+  .Cyber .Cyber-row .Cyber-left figure:last-of-type{
+     margin-top: 43px;
+  }
+}
+@media only screen and (max-width: 992px){
+   .seo-digital .row .row-right {
+      width: 45%;
+      padding-left: 10px;
+   }
+   .banner-slider .banner1-row {
+      background-position: 285px 60px;
+  }
+   .banner-slider .banner-left h1 span{
+      font-size: 30px;
+   }
+   .second-protot{
+      padding: 60px 0;
+   }
+   .second-protot figure{
+      width: 100%;
+      margin-top: 50px;
+   }
+   .second-protot .message-section .message-left {
+      padding-right: 25px;
+   }
+   .seo-digital .row{
+      padding: 50px  0;
+   }
+   .layerd-section ul li:last-of-type{
+      width: 70%;
+      margin: 0 auto;
+   }
+   .layerd-section ul li{
+      padding: 24px 10px 20px 0;
+
+      width: 49%;
+   }
+   .seo-digital .row .row-right h2 {
+      font-size: 30px;
+      line-height: 35px;
+   }
+   .seo-digital .row .row-right p{
+      padding: 1px 0;
+   }
+   .second-protot .form-start input {
+      width: 100%;
+   }
+   footer{
+      padding: 0;
+   }
+}
+
+@media only screen and (max-width: 768px){
+   .seo-main-page{
+      padding: 90px 0 40px;
+      display: flex;
+      flex-wrap: wrap;
+      width: 100%;
+   }
+   .banner-slider .banner1-row {
+      background-position: 230px 60px;
+  }
+   .contact .row .col .social_icon ul li{
+      width: 70px;
+      height: 70px;
+   }
+   .contact .contact_address .address_row ul li figure{
+      top: -63px;
+   }
+   .Just-app .just-row .just-text h4{
+      font-size: 18px;
+   }
+   .banner-slider{
+      height: 539px;
+   }
+   .banner-slider .banner-row, .banner1-row, .banner2-row{
+      height: 470px;
+      margin-top: 70px;
+   }
+   .banner-slider .banner-left{
+      width: 100%;
+   }
+   .banner-slider .banner-left h1 span{
+      font-size: 26px;
+   }
+   .Development-seo{
+      width: 100%;
+   }
+   .Development-seo h5 {
+      font-size: 30px;
+   }
+   .seo-digital .row .row-right h2{
+      font-size: 24px;
+   }
+   .Development-seo, .seo-what .container{
+      width: 100%;
+      padding: 0 15px;
+   }
+   .service .service-row{
+      padding: 0px 0px 20px 40px;
+   }
+   .Security-text{
+      padding: 120px 0 10px;
+   }
+   .seo-main-page .seo-image {
+      width: 92%;
+      margin: 0 auto;
+   }
+   .Security-text ul li{
+      width: 100%;
+      padding-bottom: 50px;
+   }
+   .seo-main-page figure {
+      height: 300px;
+      overflow: hidden;
+   }
+   .Cyber .Cyber-row .Cyber-left ul li{
+      width: 100%;
+   }
+   .seo-main-page .seo-image{
+      padding-left: 30px;
+   }
+   .do-text {
+      padding: 0 10px 0 30px;
+   }
+   .seo-what .do-text ul{
+      align-items: flex-start;
+   }
+   .seo-what .do-text li{
+      padding-right: 5px;
+   }
+   .seo-what .do-text li:first-of-type{
+      padding-top: 40px;
+   }
+   .Cyber .Cyber-row .Cyber-left figure:last-of-type{
+      margin: 25px auto;
+   }
+   .seo-what .do-text li h3 {
+    font-size: 24px;
+    line-height: 32px;
+   }
+   .what .do-text p {
+      font-size: 14px;
+   }
+   .seo-what .seo-what-row{
+      padding: 50px 15px;
+   }
+   .seo-what .seo-what-row .seo-what-col{
+      width: 100%;
+   }
+   .seo-what .seo-what-row .seo-what-col {
+      padding: 20px 15px 0px 14px;
+   }
+   .layerd-section ul li{
+      width: 100%;
+      text-align: left;
+   }
+   .layerd-section ul li:last-of-type{
+      width: 100%;
+      margin: 0 auto;
+   }
+   .seo-digital .row .row-left {
+      width: 100%;
+   }
+   .seo-digital .row .row-right{
+      width: 100%;
+      padding: 0px;
+   }
+   .second-protot .message-section{
+      flex-wrap: wrap;
+   }
+   .second-protot .message-section .message-left {
+      padding: 0 15px;
+      width: 100%;
+   }
+   .message-section .message-right {
+      width: 70%;
+      margin: 0 auto;
+   }
+   button.form-btn{
+      padding: 10px 45px;
+      font-size: 16px;
+      border-radius: 0px;
+   }
+   footer{
+      padding: 0 25px;
+   }
+}
+
+
+@media only screen and (max-width: 580px){
+   .banner-slider .banner2-row{
+      background-position: 130px 10px;
+   }
+}
+
+@media only screen and (max-width: 480px){
+   .banner-slider .banner-left{
+      padding: 20px 0 0 40px;
+   }
+   .banner-slider .banner1-row {
+      background-position: 39px 127px;
+  }
+   .banner-slider .banner2-row{
+      background-position: 50px 60px;
+   }
+   .banner-slider .banner-left h1{
+      font-size: 18px;
+   }
+   .contact .contact_address h2 {
+      font-size: 22px !important;
+  }
+   .banner-slider .slick-prev{
+      left: 10px;
+   }
+   .banner-slider .slick-next{
+      right: 10px;
+   }
+   .banner-slider .banner-left h1 span{
+      font-size: 18px;
+   }
+   .banner-slider .banner-row{
+         background-position: 4px 89px;
+   }
+   .service-title{
+        width: 100%;
+        padding-right: 20px;
+   }
+   .service h2{
+        font-size: 18px;
+   }
+   .protot h2{
+      font-size: 18px;
+   }
+   .report .container p{
+      padding: 5px 12px 15px 20px;
+      font-size: 16px;
+   }
+   .protot .protot-text h3{
+      font-size: 16px;
+      line-height: 24px;
+      margin-top: 10px;
+   }
+   .service .service-title h3{
+        font-size: 14px;
+        line-height: 26px;
+   }
+   .service .service-row .serv-left figure{
+      margin: 10px auto;
+   }
+   .service .serv-left .develompent{
+      width: 100%;
+   }
+   .service .serv-left .commerce{
+      width: 100%;
+   }
+   .service .serv-left .app-develompent{
+      width: 100%;
+   }
+   .service .serv-left h4{
+      text-align: center;
+      font-size: 18px;
+      padding-right: 20px;
+   }
+   .Web-section .web-text h3{
+      font-size: 16px;
+      line-height: 25px;
+   }
+   .header .menu ul li.dropdowon .drop li a{
+      font-size: 10px;
+   }
+   .service p{
+      text-align: center;
+      font-size: 16px;
+   }
+   .service .serv-left .seo{
+      width: 100%;
+   }
+   header {
+      padding: 8px 1px;
+   }
+   .Development-seo h5 {
+      font-size: 20px;
+   }
+   .Development .Development-seo p {
+      color: indianred;
+      padding: 10px 0;
+      line-height: 22px;
+      font-size: 16px;
+   }
+   .layerd-section ul li p{
+      font-size: 16px;
+   }
+   .seo-what .seo-what-row .seo-what-col p{
+      font-size: 14px;
+   }
+   a.btn {
+      font-size: 16px;
+      padding: 6px 25px;
+      margin: 12px 0 20px;
+   }
+   .seo-main-page .seo-image{
+      padding: 0px;
+   }
+   .seo-main-page{
+      padding-bottom: 24px;
+   }
+   .seo-what .do-text ul{
+      flex-wrap: wrap;
+   }
+   .do-text{
+      padding: 0px;
+   }
+   .seo-what .do-text ul li{
+      width: 100%;
+      padding: 10px 0;
+   }
+   .seo-what .do-text li:first-of-type{
+      padding-top: 5px;
+   }
+   .what .do-text p{
+      padding: 0px;
+   }
+
+   .seo-what .do-text li h3 {
+      font-size: 19px;
+      line-height: 28px;
+   }
+   .seo-what .seo-what-row{
+      padding: 15px 0;
+   }
+   .seo-digital .row .row-right h2{
+      font-size: 20px;
+   }
+   .seo-digital .row .row-right p{
+      line-height: 20px;
+   }
+   .message-section .message-right{
+      width: 100%;
+   }
+   .why h2{
+      font-size: 20px;
+   }
+   .why .why-row{
+      padding-bottom: 10px;
+   }
+   .why .why-row .why-col{
+      width: 100%;
+   }
+   .maintenance .why .why-col p{
+      font-size: 16px;
+   }
+   .form-control {
+      margin: 14px 0;
+      /* border-radius: 0px; */
+      border: 2px solid gray;
+      width: 95%;
+   }
+   .testing .testing-text{
+      padding-left: 40px;
+   }
+   .testing-text h6{
+      font-size: 19px;
+   }
+   .second-protot .full{
+      border-radius: 0px;
+   }
+   .testing-text p{
+      line-height: 22px;
+   }
+   .testing a.btn.testing-btn{
+      padding: 10px 28px;
+   }
+   .testing .testing-text ul li figure{
+      margin-right: 0px;
+   }
+   .why ul li h3{
+      font-size: 19px;
+   }
+   .why ul li p {
+      padding: 12px 0;
+      line-height: 26px;
+  }
+   .test-what h3{
+      font-size: 19px;
+   }
+   .serv-left.test-what p{
+      padding-right: 20px;
+      font-size: 16px;
+   }
+  .why ul{
+     padding-top: 16px;
+  }
+   .footer-column{
+      width: 100%;
+      padding: 25px 0 0;
+   }
+   .footer-column:last-of-type{
+      padding-bottom: 30px;
+   }
+   .footer-column li{
+      font-size: 16px;
+   }
+   .footer-column p{
+      font-size: 16px;
+   }
+   .footer-column h6{
+      padding: 15px 0;
+   }
+   .footer-column.recent a{
+      display: table-footer-group;
+   }
+   .team .team-row .team-left h3{
+      padding-top: 20px;;
+      line-height: 26px;
+   }
+   .why p{
+      font-size: 16px;
+   }
+   p{
+      font-size: 13px;
+   }
+   .team h2{
+      padding-top: 0;
+   }
+   h2{
+      font-size: 20px;
+   }
+   .team-left p{
+      font-size: 16px !important;
+   }
+   .Development .blog-text ul li h2{
+      font-size: 24px;
+   }
+   .Development .blog-text ul li p{
+      font-size: 16px;
+   }
+   .commerce-text h2{
+      font-size: 18px;
+      margin-bottom: 30px;
+   }
+   .commerce-text a.btn{
+      padding: 5px 34px;
+   }
+   .contact .row .col ul li a{
+      font-size: 15px;
+   }
+   .contact .row .col ul li figure{
+      width: 45px;
+      line-height: 37 px;
+      height: 45px;
+   }
+   .contact h2{
+      padding: 30px 0;
+   }
+   .contact .row .col h3{
+      font-size: 30px;
+   }
+   .start .row h2{
+      font-size: 20px;
+   }
+   .start .row{
+      padding: 50px 0 70px;
+   }
+   .Development .blog-text ul li h2{
+      font-size: 24px;
+   }
+   .Just-app .just-row .just-text h2{
+      font-size: 26px !important;
+   }
+   .Just-app .just-row{
+      padding-bottom: 0px;
+   }
+   .web-development .web-right ul li{
+      width: 100%;
+   }
+   .web-development .web-right{
+      padding-top: 20px;
+   }
+   .choose .choose-row ul .expert h4{
+      font-size: 13px;
+   }
+   .choose .choose-row .text h3{
+      font-size: 18px;
+   }
+   .choose .choose-row .text p{
+      font-size: 14x;
+   }
+}
